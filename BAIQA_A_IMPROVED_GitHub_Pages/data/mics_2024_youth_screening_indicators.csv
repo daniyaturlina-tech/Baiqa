@@ -1,7 +1,0 @@
-indicator,age_group,weighted_prevalence_pct,ci_95_lower_pct,ci_95_upper_pct
-Potential depression,15–19,1.28,0.86,1.71
-Potential depression,20–24,2.27,1.57,2.98
-Potential anxiety,15–19,1.22,0.82,1.62
-Potential anxiety,20–24,2.11,1.47,2.75
-Potential suicidality,15–19,0.84,0.44,1.23
-Potential suicidality,20–24,1.13,0.65,1.61

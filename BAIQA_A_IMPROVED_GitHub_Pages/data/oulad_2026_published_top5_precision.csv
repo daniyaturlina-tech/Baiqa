@@ -1,7 +1,0 @@
-validation,feature_set,top5_precision_pct,source,source_table
-Within-cohort test,Background/admin,68.73,Wu Jia Pham 2026 DOI:10.3389/feduc.2026.1917092,Table 5
-Within-cohort test,Behavior only,86.55,Wu Jia Pham 2026 DOI:10.3389/feduc.2026.1917092,Table 5
-Within-cohort test,All features,93.82,Wu Jia Pham 2026 DOI:10.3389/feduc.2026.1917092,Table 5
-Across-year test,Background/admin,66.54,Wu Jia Pham 2026 DOI:10.3389/feduc.2026.1917092,Table 5
-Across-year test,Behavior only,56.87,Wu Jia Pham 2026 DOI:10.3389/feduc.2026.1917092,Table 5
-Across-year test,All features,74.55,Wu Jia Pham 2026 DOI:10.3389/feduc.2026.1917092,Table 5
