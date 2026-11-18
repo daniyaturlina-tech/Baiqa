@@ -1,0 +1,4 @@
+approach,fixed_setup_KZT,staff_hours_assumed_10_alerts_week,hourly_proxy_KZT,electricity_KZT,illustrative_total_KZT,notes
+Existing faculty monitoring,0,96,3040,0,291840,4 hours manual review/week x 24 weeks
+Rule-based alerts,250000,58,3040,0,426320,"10 alert/week, 10 min review, 30% x 15 min followup"
+Baiqa ML alerts,1450000,58,3040,1181,1627501,Not proven better than rules; all setup costs hypothetical
